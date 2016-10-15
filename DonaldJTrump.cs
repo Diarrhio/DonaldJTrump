@@ -12,6 +12,7 @@ namespace RepublicanParty
     const int DictatorQualities = Int32.MaxValue;
     const int RealityDistortionField = Int32.MaxValue;
     const int Morality = Int32.MinValue;
+    const int HandSize = Int32.MinValue;
     readonly List<string> Words = new List<string> { "Best", "Me", "Losers", "Great", "Crooked Hillary", "Pussy", "Tic Tacs", "Skittles", "Islamic Extremists", "Illegals", "Mexicans", "Deleted Emails", "Bengazi", "The Cyber", "Rapists", "Media", "Taxes", "Folks", "Obamacare", "Dishonest", "Rigged" };
 
     Random Rand = new Random();
