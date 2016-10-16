@@ -8,11 +8,13 @@ namespace RepublicanParty
     const int Racism = Int32.MaxValue;
     const int Misogyny = Int32.MaxValue;
     const int Xenophobia = Int32.MaxValue;
+    const int Paranoia = Int32.MaxValue;
     const int Volatility = Int32.MaxValue;
     const int DictatorQualities = Int32.MaxValue;
     const int RealityDistortionField = Int32.MaxValue;
     const int Morality = Int32.MinValue;
     const int HandSize = Int32.MinValue;
+    const int Loyalty = Int32.MinValue;
     readonly List<string> Words = new List<string> { "Best", "Me", "Losers", "Great", "Crooked Hillary", "Pussy", "Tic Tacs", "Skittles", "Islamic Extremists", "Illegals", "Mexicans", "Deleted Emails", "Bengazi", "The Cyber", "Rapists", "Media", "Taxes", "Folks", "Obamacare", "Dishonest", "Rigged" };
 
     Random Rand = new Random();
