@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace ImageMetrics.RepublicanParty
+namespace RepublicanParty
 {
   public class DoucheBag
   {
